@@ -15,3 +15,5 @@ export class Component07Component {
   // lista de aprovados e reprovados
   lista:string[] = ['Aprovado', 'Reprovado', 'Aprovado', 'Reprovado', 'Aprovado'];
 }
+
+
